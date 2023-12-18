@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.list-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.paragraph {
+  color: #1e293b;
+  font-size: 13px;
+  font-family: 'Roboto';
+}
+.delete-image {
+  height: 30px;
+  width: 30px;
+}
